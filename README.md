@@ -146,7 +146,7 @@ Chunking improves retrieval accuracy and reduces embedding complexity.
 
 ---
 
-![Document Chunking](screen%20shots/Phase3_Document_In_Chunking.png)
+![Document Chunking](Phase3_Document_In_Chunking.png)
 
 ---
 
@@ -181,15 +181,15 @@ The vector database enables efficient similarity search operations.
 
 ### ChromaDB Initialization
 
-![ChromaDB Setup](screenshots/Phase5_Document_In_displaying.png)
+![ChromaDB Setup](Phase5_Document_In_displaying.png)
 
 ### Storing Document Chunks
 
-![Chunk Storage](screenshots/Phase5_Document_In_displaying2.png)
+![Chunk Storage](Phase5_Document_In_displaying2.png)
 
 ### Successful Vector Database Creation
 
-![Vector Database Success](screenshots/Phase5_Document_In_displaying3.png)
+![Vector Database Success](/Phase5_Document_In_displaying3.png)
 
 ---
 
@@ -210,7 +210,7 @@ When a user asks a question:
 
 ---
 
-![Embedding Generation](screenshots/Phase6_Document_In_displaying.png)
+![Embedding Generation](Phase6_Document_In_displaying.png)
 
 ---
 
@@ -232,7 +232,7 @@ Python, SQL, Power BI, Tableau, Excel, Snowflake, Data Analysis, Data Visualizat
 
 ---
 
-![Semantic Retrieval](screenshots/Phase7_RAG_Answer.png)
+![Semantic Retrieval](Phase7_RAG_Answer.png)
 
 ---
 
@@ -244,7 +244,7 @@ Instead of returning raw document text, the system provides a structured and mea
 
 ### Example 1 – Certification Query
 
-![AI Answer Example 1](screenshots/Phase8_RAG_Answer.png)
+![AI Answer Example 1](Phase8_RAG_Answer.png)
 
 **Screenshot Name:** Phase8_RAG_Answer.png
 
@@ -254,7 +254,7 @@ The application identifies certification-related information from the document a
 
 ### Example 2 – Technical Skills Query
 
-![AI Answer Example 2](screenshots/Phase8_RAG_Answer2.png)
+![AI Answer Example 2](Phase8_RAG_Answer2.png)
 
 **Screenshot Name:** Phase8_RAG_Answer2.png
 
@@ -264,7 +264,7 @@ The application analyzes the retrieved content and summarizes the candidate's te
 
 ### Example 3 – Candidate Evaluation Query
 
-![AI Answer Example 3](screenshots/Phase8_RAG_Answer3.png)
+![AI Answer Example 3](Phase8_RAG_Answer3.png)
 
 **Screenshot Name:** Phase8_RAG_Answer3.png
 
